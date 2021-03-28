@@ -1,0 +1,30 @@
+---
+title: "R distill Artikel Vorlage für Sebastian Sukstorf"
+description: |
+  Eine R distill Vorlage, um Webseiten für online Artikel zu erstellen. Die Artikel werden derzeit über GitHub gehostet.
+  author:
+  - name: Sebastian Sukstorf
+    orcid_id: 0000-0002-1538-5658
+    github: sebastiansukstorf
+    orcid: 0000-0002-1538-5658
+    twitter: sukstorf
+    email: info@sebastian.sukstorf.de
+    affiliation: Sebastian Sukstorf - Consulting & Coaching
+    affiliation_url: https://www.sebastian.sukstorf.de
+date: "`r Sys.Date()`"
+repository_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum
+compare_updates_url: https://github.com/sebastiansukstorf/Teamentwicklung-im-digitalen-Raum/compare/pubv1...master
+creative_commons: CC BY-NC
+
+---
+
+<!-- 
+Allgemeine Vorbemerkungen für online Artikel, die ich mit R distill erstelle.
+Zunächst ist wichtig, dass die folgenden R packages installiert werden:
+
+- distill
+- DiagrammeR
+- citr
+
+-->
+

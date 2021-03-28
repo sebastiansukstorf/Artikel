@@ -1,0 +1,15 @@
+name: "Artikel"
+title: "R distill Artikel Vorlage für Sebastian Sukstorf"
+description: |
+  R distill Artikel Vorlage für Sebastian Sukstorf
+output_dir: "_site"
+navbar:
+  logo:
+    image: images/favicon.jpg
+    href: https://www.sebastian.sukstorf.de
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Über mich"
+      href: about.html
+output: distill::distill_article
